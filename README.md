@@ -2,7 +2,7 @@
 
 ## About
 
-I wanted a way for people to more easily use the BMS Audio Preview Generator than just using the command line.
+BMS Audio Preview Generator, but more user-friendly.
 
 ## Instructions to Run the Application
 
